@@ -13,4 +13,4 @@
 - back-end
    - NODE.JS
 
-[youyube](https://www.youtube.com/watch?v=evz1LqEomTE)
+[linkedin](https://www.linkedin.com/in/majdi-shomali-b7a5bb1b9) - linkedin account
