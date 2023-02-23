@@ -10,6 +10,7 @@
   - HTML
   - CSS
   -  JAVASCRIPT
-- front-end
+- back-end
    - NODE.JS
 
+[youyube](https://www.youtube.com/watch?v=evz1LqEomTE)
