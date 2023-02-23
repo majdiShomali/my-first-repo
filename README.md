@@ -9,6 +9,6 @@
   - HTML
   - CSS
   -  JAVASCRIPT
-- back-end  
-- NODE.JS   
+- front-end
+   - NODE.JS
 
