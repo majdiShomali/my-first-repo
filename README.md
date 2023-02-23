@@ -6,5 +6,9 @@
 <h2 align="center">Skills</h2>;
 
 - front-end
-  - Nested Item # indented 2 spaces
-* back-end      # alternate bullet syntax
+  - HTML
+  - CSS
+  -  JAVASCRIPT
+- back-end  
+- NODE.JS   
+
