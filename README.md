@@ -5,6 +5,6 @@
  I studied mechanical engineering at the hashemite university in November 2015 </p>;
 <h2 align="center">Skills</h2>;
 
-- Item Zed
+- front-end
   - Nested Item # indented 2 spaces
-* Item Alt      # alternate bullet syntax
+* back-end      # alternate bullet syntax
