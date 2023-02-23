@@ -7,6 +7,14 @@
  
  [linkedin](https://www.linkedin.com/in/majdi-shomali-b7a5bb1b9) - linkedin account
  
+  ### favorite color
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0` 
+ 
+ #### image
+ <div>
+ <img src="https://th.bing.com/th/id/OIP.Tr6smmlEZj1vI00qUFTBDwHaFU?pid=ImgDet&rs=1" width="150">
+ <div/>
+ 
 <h2 align="center">Skills</h2>
 
 - front-end
@@ -16,4 +24,5 @@
 - back-end
    - NODE.JS
 
+ 
 
