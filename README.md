@@ -1,7 +1,7 @@
 <h1 align="center">my-first-repo</h1>
-<p><red> red color markdown text</red>
-<yellow> red color markdown text</yellow></p>
-<h2 align="center">about</h2>
+
+
+##about
 <p"align="left"> My name is majdi shomali. I was born on AUG 17th,1997 
  I studied mechanical engineering at the hashemite university in November 2015 </p>
 <h2 align="center">Skills</h2>
